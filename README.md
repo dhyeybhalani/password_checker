@@ -2,4 +2,4 @@ So basically this password checker works like it checks the password you give an
 was found on hash table.
 It tells the user whether the password they are using is safe to use or not.
 Enjoy.
-![](capture.png)
+![](capture.PNG)
